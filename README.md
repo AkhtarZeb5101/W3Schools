@@ -26,6 +26,8 @@ Follow these steps to get the W3Schools offline version up and running on your c
 
 4. **Launch the Offline Version**  
    This will open the W3Schools offline version website. Make sure you have any browser installed on your computer.
+   
+   
 
 ## Requirements
 - A web browser (e.g., Chrome, Firefox, Edge)
