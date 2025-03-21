@@ -4,7 +4,7 @@
 
 ![W3schools](https://www.w3schools.com/images/w3schoolscom_gray.gif)
 
-# W3Schools Offline Version
+# W3Schools Offline Version by XeB
 
 W3Schools is an educational website that provides web development tutorials. It covers topics like HTML, CSS, JavaScript, PHP, ASP.Net, SQL, and many more. W3Schools is getting more than 35 million visits per month and it is the most popular web development website on the internet. The tutorials are very helpful for beginners to learn web development. It also provides thousands of examples and facilities to edit and execute them online.
 
@@ -31,5 +31,7 @@ Follow these steps to get the W3Schools offline version up and running on your c
 - A web browser (e.g., Chrome, Firefox, Edge)
 - ~2.4 GB of free disk space after extraction
 
-- Enjoy learning web development offline with W3Schools!
+
+Enjoy learning web development offline with W3Schools!
+
 - You will not get all the features in W3Schools offline version but still, you will get many.
