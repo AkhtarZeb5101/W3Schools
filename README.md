@@ -16,7 +16,7 @@ Follow these steps to get the W3Schools offline version up and running on your c
 
 1. **Download the Zip File**  
    First of all, download the compressed zip file from the below link:  
-   [Download Link](https://github.com/Ja7ad/W3Schools/releases)
+   [Download Link](https://github.com/AkhtarZeb5101/W3Schools)
 
 2. **Extract the File**  
    The file is about 600 MB in size and will become about 2.4 GB after extraction. Use any compression tool like [7zip](https://www.7-zip.org/) to extract it.
@@ -31,4 +31,5 @@ Follow these steps to get the W3Schools offline version up and running on your c
 - A web browser (e.g., Chrome, Firefox, Edge)
 - ~2.4 GB of free disk space after extraction
 
-Enjoy learning web development offline with W3Schools!
+- Enjoy learning web development offline with W3Schools!
+- You will not get all the features in W3Schools offline version but still, you will get many.
